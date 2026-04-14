@@ -38,4 +38,4 @@ An interactive and fun romantic web application built using HTML, CSS, and JavaS
 
 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/valentine-proposal.git
+git clone https://github.com/yraj11mm/valentine-proposal.git
